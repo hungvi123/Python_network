@@ -36,4 +36,3 @@ def get_list_device():
     return data
 
 get_list_device()
-
